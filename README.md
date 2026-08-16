@@ -69,28 +69,12 @@ You can explore all my projects and experiments on my GitHub:
 
 👉 [**View All Repositories**](https://github.com/azadali45703-tech?tab=repositories)
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azadali45703-tech&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadali45703-tech&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=azadali45703-tech&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/azadali45703-tech/azadali45703-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
