@@ -90,7 +90,7 @@ You can explore all my projects and experiments on my GitHub:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azadali45703-tech/azadali45703-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/azadali45703-tech/azadali45703-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
