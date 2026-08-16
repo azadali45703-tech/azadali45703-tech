@@ -52,17 +52,23 @@
 * ☁️ Cloud & DevOps
 
 ---
-
 ## 🚀 Featured Projects
 
-| Project                             | Description                                             | Technology                |
-| ----------------------------------- | ------------------------------------------------------- | ------------------------- |
-| 📧 **Spam Mail Detection**          | ML model to detect Spam and Not Spam emails             | Python, NLP, Scikit-learn |
-| 💬 **Quick Talk**                   | Real-time messaging/chat application                    | Python, HTML, CSS, JS     |
-| 🩸 **Blood Bank Management System** | System for managing blood donors and blood inventory    | Python, MySQL             |
-| 🌱 **Smart Farming**                | Smart agriculture solution using sensors and technology | Python, IoT               |
+| Project                          | Description                                                                               | Technology                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------- |
+| 📧 **Spam Email Detection**      | Machine Learning project to classify email messages as Spam or Not Spam using Naive Bayes | Python, NLP, Machine Learning |
+| 🧮 **Python Calculator**         | Simple calculator that performs addition, subtraction, multiplication and division        | Python                        |
+| 🎓 **Student Management System** | Python-based system to add, view, search and delete student records                       | Python                        |
+| 🔎 **Language Search**           | Jupyter Notebook project for searching and working with language-related data             | Python, Jupyter Notebook      |
+| 💻 **CodeAlpha Tasks**           | Collection of tasks completed during the CodeAlpha internship/training                    | Python, Jupyter Notebook      |
+| 🌐 **Express.js Website**        | Express.js based web project                                                              | MDX, Express.js               |
 
----
+### 📂 My Repositories
+
+You can explore all my projects and experiments on my GitHub:
+
+👉 [**View All Repositories**](https://github.com/azadali45703-tech?tab=repositories)
+
 
 ## 📊 GitHub Stats
 
